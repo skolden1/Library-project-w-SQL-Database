@@ -1,0 +1,39 @@
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\Laboration SQL up1.exe
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\Laboration SQL up1.dll.config
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\Laboration SQL up1.deps.json
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\Laboration SQL up1.runtimeconfig.json
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\Laboration SQL up1.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\Laboration SQL up1.pdb
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.csproj.AssemblyReference.cache
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.AssemblyInfoInputs.cache
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.AssemblyInfo.cs
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.csproj.CoreCompileInputs.cache
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laborati.A44A679C.Up2Date
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\refint\Laboration SQL up1.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.pdb
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.genruntimeconfig.cache
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\ref\Laboration SQL up1.dll
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration_SQL_up1.Migrations.AddIsBorrowedColumn.resources
+C:\Users\skold\source\repos\Laboration SQL up1\Laboration SQL up1\obj\Debug\net8.0\Laboration SQL up1.csproj.GenerateResource.cache
