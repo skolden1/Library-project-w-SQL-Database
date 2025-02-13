@@ -283,8 +283,7 @@ namespace Laboration_SQL_up1
                 }
             }
         }
-        static void UpdateUserPw(string currentUsername, string newPw) //har mest kopierat och kollat hur du gjorde dina första metoder,
-                                                                       //och sen efter lite googling klurade jag ut hur man gjorde detta, tycker fortfarande det är svårt!
+        static void UpdateUserPw(string currentUsername, string newPw) 
         {
             using (var context = new UserContext())
             {
